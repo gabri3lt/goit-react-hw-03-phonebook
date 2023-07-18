@@ -1,0 +1,24 @@
+.allContacts {
+  margin-bottom: 10px;
+}
+
+.titleContacts {
+  margin-top: 70px;
+}
+.container {
+  padding: 0 50px;
+  margin-top: 50px;
+}
+
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: auto;
+  height: auto;
+  padding: 20px;
+}
+
+.section:not(:last-child) {
+  margin-right: 32px;
+}
